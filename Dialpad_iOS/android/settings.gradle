@@ -1,0 +1,3 @@
+rootProject.name = 'Dialpad_iOS'
+
+include ':app'
